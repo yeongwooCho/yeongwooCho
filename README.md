@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-
-
-![Website](https://img.shields.io/website?label=blog&url=https://yeongwoo-cho.tistory.com/)
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FyeongwooCho&count_bg=%23289CDD&title_bg=%23555555&icon=&icon_color=%232B2A2A&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![yeongwoo's github stats](https://github-readme-stats.vercel.app/api?username=yeongwooCho&show_icons=true)
