@@ -3,17 +3,15 @@
 
 ### About Me 👋
 **yeongwooCho/yeongwooCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 👊 I’m currently working iOS Project
-- 👊 I’m currently learning Node.js Bacjend
 
-### Features
+### 😁 Features 😁
 - #### 🌱 I'm exercising One day One Commit 🌱
 - ⚡ Majoring in Computere Science and Engineering.
 - 👯 PNU DSC (Developer Student Club) Member for 1+ years
 - 🔭 BGM (Busan 개발자 모임) Django Project Lead
 
 
-### ⚒ Tech ⚒
+### 🛠 Tech 🛠
 - Swift | Python | Kotlin | C++ | C |
 - IOS Application | Django Backend | Basic Web Frontend
 
