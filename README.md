@@ -9,7 +9,7 @@
 - ⚡ Majoring in Computere Science and Engineering.
 - 👯 PNU DSC (Developer Student Club) Member for 1+ years
 - 🔭 BGM (Busan 개발자 모임) Django Project Lead
-
+- 📱 공생공생 B2C Appointment Application Developing ~
 
 ### 🛠 Tech 🛠
 - Swift | Python | Kotlin | C++ | C |
