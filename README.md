@@ -7,13 +7,13 @@
 ### 😁 Features 😁
 - #### 🌱 I'm exercising One day One Commit 🌱
 - ⚡ Majoring in Computere Science and Engineering.
-- 👯 PNU DSC (Developer Student Club) Member for 1+ years
-- 🔭 BGM (Busan 개발자 모임) Django Project Lead
-- 📱 공생공생 B2C Appointment Application Developing ~
+- 👯 PNU DSC (Developer Student Club) Member for one years
+- 🔭 BGM (Busan 개발자 모임) Django Project Lead Experience
+- 📱 공생공생 B2C Appointment iOS Application Developing ~~~
 
 ### 🛠 Tech 🛠
 - Swift | Python | Kotlin | C++ | C |
-- IOS Application | Django Backend | Basic Web Frontend
+- IOS Application | Data Preprocessing | Django Backend | Basic Web Frontend
 
 
 ![yeongwoo's github stats](https://github-readme-stats.vercel.app/api?username=yeongwooCho&show_icons=true)
