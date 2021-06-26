@@ -10,6 +10,8 @@
 - 👯 PNU DSC (Developer Student Club) Member for one years
 - 🔭 BGM (Busan 개발자 모임) Django Project Lead Experience
 - 📱 공생공생 B2C Appointment iOS Application Developing ~~~
+- 💪 I'm learning intensively Front-end (HTML, CSS, Javascript, React)
+
 
 ### 🛠 Tech 🛠
 - Swift | Python | Kotlin | C++ | C |
