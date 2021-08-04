@@ -17,7 +17,7 @@
 
 ### 🛠 Tech 🛠
 - Swift | Python | C++ | C |
-- IOS Application | Data Preprocessing | Django Backend | Web Frontent basic
+- IOS Application | Data Preprocessing | Django Backend
 
 
 ![yeongwoo's github stats](https://github-readme-stats.vercel.app/api?username=yeongwooCho&show_icons=true)
