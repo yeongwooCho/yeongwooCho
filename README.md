@@ -4,13 +4,13 @@
 
 # 📱 iOS Developer growing day by day.📱
 
-## promise 
+### 👋 About Me 👋 
+**yeongwooCho/yeongwooCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+### 👊 promise 👊
 - Don't make show commits. 
 - Don't spare commits.
 - Keep Max commit per day. every day.
-
-### About Me 👋 
-**yeongwooCho/yeongwooCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### 😁 Features 😁
 - #### 🌱 I'm exercising One day One Commit 🌱
