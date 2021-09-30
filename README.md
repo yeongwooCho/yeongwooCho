@@ -4,6 +4,10 @@
 
 # 📱 iOS Developer growing day by day.📱
 
+## promise 
+- Don't make show commits. 
+- Don't spare commits.
+- Keep Max commit per day. every day.
 
 ### About Me 👋 
 **yeongwooCho/yeongwooCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +18,10 @@
 - 👯 PNU DSC (Developer Student Club) Member for one years
 - 🔭 BGM (Busan 개발자 모임) Django Project Lead Experience
 
-
 ### 🛠 Tech 🛠
 - Swift | Python | C++ | C |
 - IOS Application | Data Preprocessing | Django Backend
+- RxSwift, RxCocoa ...
 
 
 ![yeongwoo's github stats](https://github-readme-stats.vercel.app/api?username=yeongwooCho&show_icons=true)
