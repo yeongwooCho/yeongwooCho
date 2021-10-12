@@ -20,7 +20,5 @@
 ### 🛠 Tech 🛠
 - Swift | Python | C++ | C |
 - IOS Application | Data Preprocessing | Django Backend
-- RxSwift, RxCocoa ...
-
 
 ![yeongwoo's github stats](https://github-readme-stats.vercel.app/api?username=yeongwooCho&show_icons=true)
