@@ -7,11 +7,6 @@
 ### 👋 About Me 👋 
 **yeongwooCho/yeongwooCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 👊 promise 👊
-- #### 🌱 Don't make show commits. 
-- #### 🌱 Don't spare commits.
-- #### 🌱 Keep Max commit per day. every day.
-
 ### 😁 Features 😁
 - ⚡ Majoring in Computere Science and Engineering.
 - 👯 PNU DSC (Developer Student Club) Member for one years
