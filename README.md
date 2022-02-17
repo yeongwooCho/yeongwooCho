@@ -11,6 +11,7 @@
 - ⚡ Majoring in Computere Science and Engineering.
 - 👯 PNU DSC (Developer Student Club) Member for one years
 - 🔭 BGM (Busan 개발자 모임) Django Project Lead Experience
+- 🍎 Apple Developer Academy @ POSTECH
 
 ### 🛠 Tech 🛠
 - Swift | Python | C++ | C |
