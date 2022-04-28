@@ -4,13 +4,11 @@
 
 # 📱 iOS Developer growing day by day.📱
 
-### 👋 About Me 👋 
-**yeongwooCho/yeongwooCho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 😁 Features 😁
 - ⚡ Majoring in Computere Science and Engineering.
 - 👯 PNU DSC (Developer Student Club) Member for one years
 - 🔭 BGM (Busan 개발자 모임) Django Project Lead Experience
+- 💻 8 months of experience as a startup intern (as an iOS developer)
 - 🍎 Apple Developer Academy @ POSTECH
 
 ### 🛠 Tech 🛠
