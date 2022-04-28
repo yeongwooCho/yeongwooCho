@@ -4,7 +4,7 @@
 
 # 📱 iOS Developer growing day by day.📱
 
-### 😁 Features 😁
+### 😁 Experience 😁
 - ⚡ Majoring in Computere Science and Engineering.
 - 👯 PNU DSC (Developer Student Club) Member for one years
 - 🔭 BGM (Busan 개발자 모임) Django Project Lead Experience
@@ -12,7 +12,8 @@
 - 🍎 Apple Developer Academy @ POSTECH
 
 ### 🛠 Tech 🛠
-- Swift | Python | C++ | C |
-- IOS Application | Data Preprocessing | Django Backend
+- Main Languages: Swift | Python
+- Side Languages: Kotlin | Java | C++ | C |
+- iOS Application | Data Preprocessing | Django Backend
 
 ![yeongwoo's github stats](https://github-readme-stats.vercel.app/api?username=yeongwooCho&show_icons=true)
