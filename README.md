@@ -5,7 +5,7 @@
 # 📱 iOS Developer growing day by day.📱
 
 ### 😁 Experience 😁
-- ⚡ Majoring in Computere Science and Engineering.
+- ⚡ Majoring in Computere Science and Engineering. (Pusan National University)
 - 👯 PNU DSC (Developer Student Club) Member for one years
 - 🔭 BGM (Busan 개발자 모임) Django Project Lead Experience
 - 💻 8 months of experience as a startup intern (as an iOS developer)
