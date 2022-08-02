@@ -10,6 +10,7 @@
 - 🔭 BGM (Busan 개발자 모임) Django Project Lead Experience
 - 💻 8 months of experience as a startup intern (as an iOS developer)
 - 🍎 Apple Developer Academy @ POSTECH
+- 🐤 Slash Developer
 
 ### 🛠 Tech 🛠
 - Main Languages: Swift | Python
