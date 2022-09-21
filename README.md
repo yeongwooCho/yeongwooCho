@@ -14,7 +14,8 @@
 
 ### 🛠 Tech 🛠
 - Main Languages: Swift | Python
-- Side Languages: Kotlin | Java | C++ | C |
-- iOS Application | Data Preprocessing | Django Backend
+- Side Languages: C | C++ | Java | Kotlin
+- iOS Application | Django Backend | Data Preprocessing | 
 
-![yeongwoo's github stats](https://github-readme-stats.vercel.app/api?username=yeongwooCho&show_icons=true)
+<!-- ![yeongwoo's github stats](https://github-readme-stats.vercel.app/api?username=yeongwooCho&show_icons=true) -->
+
