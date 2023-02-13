@@ -9,13 +9,13 @@
 - 👯 PNU DSC (Developer Student Club) Member for one years (2020.03 ~ 2021.02)
 - 🔭 BGM (Busan 개발자 모임) Django Project Lead Experience (2020.07 ~ 2020.08)
 - 💻 8 months of experience as a startup intern (as an iOS developer) (2021.06 ~ 2022.02)
-- 🍎 Apple Developer Academy @ POSTECH (2022.03 ~ 2022.07)
-- 🐤 Para - Slash(Split payment e-commerce service) Developer (2022.07 ~ 2022.12)
+- 🍎 Apple Developer Academy @ POSTECH (2022.03 ~ 2022.08)
+- 🐤 Para - Slash(Split payment e-commerce service) Developer (2022.08 ~ 2022.12)
 - 💸 money-making developer (2022.01 ~ )
 
 
 ### 🛠 Tech 🛠
-Mobile Application - Dart(fultter), Swift(iOS), Kotiln(AOS)<br>
+Mobile Application - Dart(futter), Swift(iOS), Kotiln(AOS)<br>
 Backend - Python(Django)<br>
 Robotic Process Automation | Data Preprocessing - Python<br>
 
