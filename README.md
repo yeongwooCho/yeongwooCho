@@ -15,7 +15,7 @@
 
 
 ### 🛠 Tech 🛠
-Mobile Application - Dart(futter), Swift(iOS), Kotiln(AOS)<br>
+Mobile Application - Dart(flutter), Swift(iOS), Kotiln(AOS)<br>
 Backend - Python(Django)<br>
 Robotic Process Automation | Data Preprocessing - Python<br>
 
