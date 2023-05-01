@@ -11,7 +11,6 @@
 - 💻 8 months of experience as a startup intern (as an iOS developer) (2021.06 ~ 2022.02)
 - 🍎 Apple Developer Academy @ POSTECH (2022.03 ~ 2022.08)
 - 🐤 Para - Slash(Split payment e-commerce service) Developer (2022.08 ~ 2022.12)
-- 💸 money-making developer (2022.01 ~ )
 
 
 ### 🛠 Tech 🛠
