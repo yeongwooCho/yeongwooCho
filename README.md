@@ -9,14 +9,13 @@
 - 👯 PNU DSC (Developer Student Club) Member for one years (2020.03 ~ 2021.02)
 - 🔭 BGM (Busan 개발자 모임) Django Project Lead Experience (2020.07 ~ 2020.08)
 - 💻 8 months of experience as a startup intern (as an iOS developer) (2021.06 ~ 2022.02)
-- 🍎 Apple Developer Academy @ POSTECH (2022.03 ~ 2022.08)
-- 🐤 Para - Slash(Split payment e-commerce service) Developer (2022.08 ~ 2022.12)
+- 🍎 Apple Developer Academy @ POSTECH (as an iOS developer) (2022.03 ~ 2022.08)
+- 🐤 Para - Slash(Split payment e-commerce service) Developer (2022.07 ~ 2022.12)
 
 
 ### 🛠 Tech 🛠
-Mobile Application - Dart(flutter), Swift(iOS), Kotiln(AOS)<br>
-Backend - Python(Django)<br>
-Robotic Process Automation | Data Preprocessing - Python<br>
+Mobile Application - Flutter(Dart), iOS Native(Swift), React(TypeScript)<br>
+Backend - Node.js(Nest.js, TypeScript)<br>
 
 
 <!-- ![yeongwoo's github stats](https://github-readme-stats.vercel.app/api?username=yeongwooCho&show_icons=true) -->
