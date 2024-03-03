@@ -14,8 +14,9 @@
 
 
 ### 🛠 Tech 🛠
-Mobile Application - Flutter(Dart), iOS Native(Swift), React(TypeScript)<br>
-Backend - Node.js(Nest.js, TypeScript)<br>
+Mobile - Flutter(Dart), iOS Native(Swift)
+Web - React(TypeScript)<br>
+Backend - Nest.js(TypeScript)<br>
 
 
 <!-- ![yeongwoo's github stats](https://github-readme-stats.vercel.app/api?username=yeongwooCho&show_icons=true) -->
