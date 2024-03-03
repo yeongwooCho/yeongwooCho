@@ -11,10 +11,11 @@
 - 💻 8 months of experience as a startup intern (as an iOS developer) (2021.06 ~ 2022.02)
 - 🍎 Apple Developer Academy @ POSTECH (as an iOS developer) (2022.03 ~ 2022.08)
 - 🐤 Para - Slash(Split payment e-commerce service) Developer (2022.07 ~ 2022.12)
+- 🟢 freelancer (2023.01 ~ )
 
 
 ### 🛠 Tech 🛠
-Mobile - Flutter(Dart), iOS Native(Swift)
+Mobile - Flutter(Dart), iOS Native(Swift)<br>
 Web - React(TypeScript)<br>
 Backend - Nest.js(TypeScript)<br>
 
