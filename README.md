@@ -5,19 +5,20 @@
 # 📱 A developer who creates value📱
 
 ### 😁 Experience 😁
-- ⚡ Majoring in Computere Science and Engineering. (Pusan National University) (2016.03 ~ )
-- 👯 PNU DSC (Developer Student Club) Member for one years (2020.03 ~ 2021.02)
-- 🔭 BGM (Busan 개발자 모임) Django Project Lead Experience (2020.07 ~ 2020.08)
-- 💻 8 months of experience as a startup intern (as an iOS developer) (2021.06 ~ 2022.02)
-- 🍎 Apple Developer Academy @ POSTECH (as an iOS developer) (2022.03 ~ 2022.08)
-- 🐤 Para - Slash(Split payment e-commerce service) Developer (2022.07 ~ 2022.12)
-- 🟢 freelancer (2023.01 ~ )
+- ⚡ Majoring in Computere Science and Engineering. [Pusan National University] (2016.03 ~ )
+- 👯 PNU DSC (Developer Student Club) Member for one years [Django Backend] (2020.03 ~ 2021.02)
+- 🔭 BGM (Busan 개발자 모임) Django Project Lead Experience [Django Backend] (2020.07 ~ 2020.08)
+- 💻 8 months of experience as a startup intern [iOS Native] (2021.06 ~ 2022.02)
+- 🍎 Apple Developer Academy @ POSTECH [iOS Native] (2022.03 ~ 2022.08)
+- 🐤 Para - Slash(Split payment e-commerce service) [Django Backend] (2022.07 ~ 2022.12)
+- 🟢 Freelancer [Flutter, NestJS] (2023.01 ~ )
 
 
 ### 🛠 Tech 🛠
-Mobile - Flutter(Dart), iOS Native(Swift)<br>
+🔥Mobile - Flutter(Dart), iOS Native(Swift)<br>
+🔥Backend - Nest.js(TypeScript)<br>
 Web - React(TypeScript)<br>
-Backend - Nest.js(TypeScript)<br>
+
 
 
 <!-- ![yeongwoo's github stats](https://github-readme-stats.vercel.app/api?username=yeongwooCho&show_icons=true) -->
